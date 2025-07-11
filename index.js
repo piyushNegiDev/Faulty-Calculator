@@ -35,4 +35,6 @@ if (operation === "+") {
   } else {
     console.log("Right calculation : ", a / b);
   }
+} else {
+  console.log("Wrong Operation Choice");
 }
